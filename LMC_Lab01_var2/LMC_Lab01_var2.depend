@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1729704653 source:e:\shits\ovid fac\ovid. info\facultate\an2\logicamatematicasicomputationala\lmc_lab01_var2\main.cpp
+	<iostream>
+	<stack>
+	<string>
+	<unordered_map>
+	<unordered_set>
+	<set>
+
+1729956699 source:e:\shits\ovid fac\ovid. info\facultate\an2\logicamatematicasicomputationala\lmc_lab01_var2\lmc_lab01_var2\main.cpp
+	<iostream>
+	<stack>
+	<string>
+	<unordered_map>
+	<unordered_set>
+	<set>
+	<vector>
+	<map>
+
